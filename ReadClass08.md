@@ -2,6 +2,10 @@ Jose Cardozo
 12/21/2022
 
 https://wiki.freeradius.org/guide/Concepts
+https://www.professormesser.com/network-plus/n10-008/n10-008-video/authentication-methods-n10-008/
+https://www.professormesser.com/network-plus/n10-008/n10-008-video/defense-in-depth-n10-008/
+https://www.professormesser.com/security-plus/sy0-401/radius-and-tacacs-2/
+https://www.professormesser.com/security-plus/sy0-401/kerberos-2/
 
 
 RADIUS Concepts
